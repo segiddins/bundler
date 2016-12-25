@@ -1,0 +1,7 @@
+> GET /info/faker
+> accept-encoding: gzip
+> accept: */*
+> user-agent: bundler/1.13.7 rubygems/2.6.8 ruby/2.4.0 (x86_64-apple-darwin16.1.0) command/install options/jobs,disable_postit,spec_run,plugins 5a21c7fd785346ac
+> connection: keep-alive
+> keep-alive: 30
+> host: index.rubygems.org

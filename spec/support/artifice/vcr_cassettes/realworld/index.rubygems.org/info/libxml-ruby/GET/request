@@ -1,0 +1,7 @@
+> GET /info/libxml-ruby
+> accept-encoding: gzip
+> accept: */*
+> user-agent: bundler/1.13.7 rubygems/2.6.8 ruby/2.4.0 (x86_64-apple-darwin16.1.0) command/lock options/spec_run,plugins,disable_postit 25ba5e600d659734
+> connection: keep-alive
+> keep-alive: 30
+> host: index.rubygems.org

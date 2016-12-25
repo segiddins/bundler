@@ -1,0 +1,7 @@
+> GET /info/listen
+> accept-encoding: gzip
+> accept: */*
+> user-agent: bundler/1.13.7 rubygems/2.6.8 ruby/2.4.0 (x86_64-apple-darwin16.1.0) command/lock options/spec_run,plugins,disable_postit 312f1ae6c7646e4e
+> connection: keep-alive
+> keep-alive: 30
+> host: index.rubygems.org

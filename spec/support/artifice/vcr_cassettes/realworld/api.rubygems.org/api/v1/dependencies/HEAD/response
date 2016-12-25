@@ -1,0 +1,23 @@
+HTTP/1.1 200 OK
+content-type: text/html; charset=utf-8
+x-frame-options: SAMEORIGIN
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff
+cache-control: no-cache
+x-request-id: ef00ea61-86c0-489f-bfa9-246031603a4a
+x-runtime: 0.003587
+x-ua-compatible: IE=Edge,chrome=1
+x-backend: F_Rails 54.186.104.15:443
+content-length: 0
+accept-ranges: bytes
+date: Sun, 25 Dec 2016 22:45:57 GMT
+via: 1.1 varnish
+age: 1102
+connection: keep-alive
+x-served-by: cache-ord1727-ORD
+x-cache: HIT
+x-cache-hits: 209
+x-timer: S1482705957.210631,VS0,VE0
+vary: Accept-Encoding,Fastly-SSL
+server: RubyGems.org
+
